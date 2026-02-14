@@ -103,6 +103,8 @@ Step 3: Calculate hre =∆𝑉𝑏𝑒
 
 # OUTPUT CHARATERISTICS:
 
+# MODEL CALCULATION 
+
 # MODEL GRAPH
 
 <img width="372" height="171" alt="image" src="https://github.com/user-attachments/assets/ea5faa57-be49-4f8f-84db-9cda881db5bf" />
