@@ -41,8 +41,11 @@ gm =ID/VGS
 # TRANSFER CHARATERISTICS:
 <img width="428" height="282" alt="image" src="https://github.com/user-attachments/assets/e1168bd1-4f0a-4640-b4c4-5d179b72c5cf" />
 
+# GRAPH:
+
+
 # TABULATION:
-<img width="1034" height="890" alt="image" src="https://github.com/user-attachments/assets/7901fc47-eb6e-4f1e-a1db-46d40394dcd0" />
+
 
 # CALCULATION:
 
