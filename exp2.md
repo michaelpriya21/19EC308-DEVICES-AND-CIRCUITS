@@ -42,17 +42,19 @@ ammeter is included in the circuit .
 7.The reverse conduction region is extended to meet x-axis at a point. The value at
 this point is Vrb.
 
-# FORMULA USED
+# FORMULA USED:
 Forward Resistance RF = ΔVF/ ΔIF (Ω)
 Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
-# TABULATION 
+# TABULATION:
 
-# MODEL CALCULATION
+# MODEL CALCULATION:
 
-# MODEL GRAPH
+# MODEL GRAPH:
 
 <img width="500" height="245" alt="image" src="https://github.com/user-attachments/assets/ae99eb41-739f-425a-9131-338835626e19" />
+
+# GRAPH:
 
 # RESULT
 Thus the Zener diode characteristics were studied
