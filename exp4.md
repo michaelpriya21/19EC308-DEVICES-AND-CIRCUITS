@@ -8,7 +8,7 @@ h - Parameters from the graph.
 
 <img width="385" height="197" alt="image" src="https://github.com/user-attachments/assets/397c4289-ef1f-497b-9eef-c6b5422cad42" />
 
-# CIRCUIT DIAGRAM 
+# CIRCUIT DIAGRAM:
 
 <img width="471" height="326" alt="image" src="https://github.com/user-attachments/assets/88b27ba0-1ca5-4bbb-95ad-9c1a98e0d251" />
 
@@ -99,13 +99,15 @@ Step 3: Calculate hrb =
 
 <img width="275" height="213" alt="image" src="https://github.com/user-attachments/assets/b3605fba-90a1-4ce3-bc0d-db9b465c64f0" />
 
-# TABULATION
+# TABULATION:
 
-# MODEL CALCULATION 
+# MODEL CALCULATION:
 
-# MODEL GRAPH 
+# MODEL GRAPH :
 
 <img width="441" height="261" alt="image" src="https://github.com/user-attachments/assets/dfb8cdbd-b4dc-4683-ba1f-fe31bc154a36" />
+
+# GRAPH:
 
 # RESULT:
 Thus the input , output characteristic of BJT in common base mode is drawn ,
