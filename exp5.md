@@ -97,17 +97,19 @@ Step 3: Calculate hrb =∆𝑉𝑏𝑐
 <img width="249" height="208" alt="image" src="https://github.com/user-attachments/assets/714d0e2f-dc21-431e-8f57-a55698239d6a" />
 
 
-# TABULATION 
-
-# INPUT CHARATERISTICS:
+# TABULATION:
+# INPUT CHARACTERISTICS:
 
 # OUTPUT CHARACTERISTICS: 
 
-# MODEL CALCULATION 
+# MODEL CALCULATION :
 
-# MODEL GRAPH
+# MODEL GRAPH:
 
 <img width="540" height="237" alt="image" src="https://github.com/user-attachments/assets/737a1839-adcc-47e8-b14a-ef9c14a3432c" />
+
+# GRAPH:
+
 
 # RESULT:
 The input and output characteristics of transistor in CC mode is studied, I/O characteristics
