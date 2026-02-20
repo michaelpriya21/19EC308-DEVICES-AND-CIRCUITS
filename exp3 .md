@@ -8,7 +8,7 @@ h - Parameters from the graph.
 
 <img width="483" height="241" alt="image" src="https://github.com/user-attachments/assets/650ad776-8964-4a6b-9015-ff0cbf431f61" />
 
-# CIRCUIT DIAGRAM
+# CIRCUIT DIAGRAM:
 
 <img width="615" height="487" alt="image" src="https://github.com/user-attachments/assets/fb83d21c-04a6-47f4-9c87-d9e12abf1ae8" />
 
@@ -21,7 +21,7 @@ carriers it is called bipolar device. In CE configuration base is the i/p termin
 o/p terminal and emitter is common to both input and output. The ratio of change in Ic to change
 in base current Ib is known as Current amplification factor or current gain.
 
-# FORMULEA USED:
+# FORMULA USED:
 1. Input impedance  hie =∆VBE / ∆IB Ω ,VCE constant.
 2. Output admittance  hoe = ∆ IC /∆VCE mho,IB constant.
 3. Forward current gain hfe = ∆IC/∆IB,VCE= constant.
@@ -97,18 +97,18 @@ Step 3: Calculate hre =∆𝑉𝑏𝑒
 
 <img width="291" height="199" alt="image" src="https://github.com/user-attachments/assets/8c1e62c0-e532-4964-a607-6b419f0725dd" />
 
-# TABULATION 
+# TABULATION :
+# INPUT CHARACTERISTICS:
 
-# INPUT CHARATERISTICS:
+# OUTPUT CHARACTERISTICS:
 
-# OUTPUT CHARATERISTICS:
+# MODEL CALCULATION :
 
-# MODEL CALCULATION 
-
-# MODEL GRAPH
+# MODEL GRAPH:
 
 <img width="372" height="171" alt="image" src="https://github.com/user-attachments/assets/ea5faa57-be49-4f8f-84db-9cda881db5bf" />
 
+# GRAPH:
 
 # RESULT:
 The input and output characteristics of transistor in CE mode is drawn and,
