@@ -61,6 +61,8 @@ Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 <img width="491" height="224" alt="image" src="https://github.com/user-attachments/assets/7258e48b-93d9-45ef-9bf7-f4f6b2e2cf3a" />
 
+# GRAPH:
+
 
 # RESULT
 1. Forward resistance of PN diode = --------------------
